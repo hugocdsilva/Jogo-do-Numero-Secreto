@@ -1,4 +1,4 @@
-## Secret Number Game- Alura
+## Secret Number Game - Alura
 I'm developing this game on the Alura course.
 <br /><br />
 🔗 You can access it at this link: https://hugocdsilva.github.io/Jogo-do-Numero-Secreto/
